@@ -1,0 +1,14 @@
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+tkinter
+customtkinter
+joblib
+mediapipe 
+nltk
+
+Descargar: tesseract-ocr
